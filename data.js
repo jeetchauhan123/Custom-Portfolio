@@ -557,7 +557,6 @@ window.PORTFOLIO = {
         { label: "View certificate", url: "media/Claude_AI_SkillNation.pdf" },
       ],
     },
-    Claude_Al_SkillNation.pdf
     // { title: "Name", issuer: "Issuer", kind: "Certification", year: "2025", links: [{ label: "View certificate", url: "media/file.pdf" }] },
   ],
   custom: {
